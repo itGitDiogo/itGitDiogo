@@ -1,9 +1,6 @@
 ## Olá, meu nome é Diogo Augusto!
 
 
-
-🔭 Estou trabalhando em um site de viagens.
-
 💬 
 
 ----
