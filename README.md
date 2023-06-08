@@ -2,7 +2,8 @@
 
 
 💬 
-
+Foco em ser Full-Stack.
+Estudando atualmente python.
 ----
 
 ## 🚀 Minhas Skills
