@@ -3,7 +3,7 @@
 
 💬 
 Foco em ser Full-Stack.
-Estudando atualmente Alexa Skills com python.
+Estudando atualmente Java e Python.
 ----
 
 ## 🚀 Minhas Skills
